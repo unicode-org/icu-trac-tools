@@ -1,11 +1,4 @@
-ICU Code Tools plugin
-
-© 2016 and later: Unicode, Inc. and others.
-License & terms of use: http://www.unicode.org/copyright.html
-
-Copyright (C) 2010-2014 IBM Corporation and Others. All Rights Reserved.
-See license.html for the license file. This file is part of the
-ICU project and is under the same license.
+# ICU Code Tools plugin
 
 Docs:  https://sites.google.com/site/icucodetools/home
 
@@ -50,7 +43,7 @@ Installing:
 	             ticket.
 
 
-Troubleshooting:
+### Troubleshooting:
 
 Q: My commits aren't being found!
 A: Check the debug log. It will note commits with unparseable messages
@@ -70,14 +63,16 @@ A: Until we implement trac 0.12 changeset listeners, you can do this:
 
 Now the ticket manager will re-sync the first time you hit a ticket.
 
-RESTRICT CHECKINS
+### RESTRICT CHECKINS
  See the comments at the top of icucodetools/traccheck.py.
  note that /path/to/traccheck is the path to the installed "traccheck" script,
  not the 'traccheck.py' source file.
 
-FILING BUGS/FEATURE REQUESTS:
- - See https://sites.google.com/site/icucodetools/home to file or view bugs.
+### License
 
-LICENSE:
- - see LICENSE
+Copyright © 2016-2023 Unicode, Inc. Unicode and the Unicode Logo are registered trademarks of Unicode, Inc. in the United States and other countries.
+
+The project is released under [LICENSE](./LICENSE).
+
+A CLA is required to contribute to this project - please refer to the [CONTRIBUTING.md](https://github.com/unicode-org/.github/blob/main/.github/CONTRIBUTING.md) file (or start a Pull Request) for more information.
 
