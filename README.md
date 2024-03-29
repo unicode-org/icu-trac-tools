@@ -1,5 +1,7 @@
 # ICU Code Tools plugin
 
+## Unsupported internal tools.
+
 Docs:  https://sites.google.com/site/icucodetools/home
 
 Requirements:
@@ -70,7 +72,7 @@ Now the ticket manager will re-sync the first time you hit a ticket.
 
 ### License
 
-Copyright © 2016-2023 Unicode, Inc. Unicode and the Unicode Logo are registered trademarks of Unicode, Inc. in the United States and other countries.
+Copyright © 2016-2024 Unicode, Inc. Unicode and the Unicode Logo are registered trademarks of Unicode, Inc. in the United States and other countries.
 
 The project is released under [LICENSE](./LICENSE).
 
